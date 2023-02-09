@@ -1,0 +1,26 @@
+{
+    "MENU": {
+      "static": {
+        "06/02": "chicken & veg pie",
+        "07/02": "BBQ pork stir fry",
+        "08/02": "bacon, broccoli & cauliflower carbonara",
+        "09/02": "fish fingers chips and salad",
+        "10/02": "Beef tacos",
+        "13/02": "Pizza",
+        "14/02": "Burgers",
+        "15/02": "Mini Corn Dogs",
+        "16/02": "Housemade Dip and Chips or Cheesy Pull Aparts",
+        "17/02": "Drumstick",
+                
+      }
+    },
+    "EVENTS": {
+      "static": {
+        "14/02": "Happy Feet",
+        "21/02": "Happy Feet",
+        "28/02": "Happy Feet",
+        "07/02": "Happy Feet",
+              
+      }
+    }
+  }
